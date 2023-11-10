@@ -612,7 +612,7 @@ h3 {font-size: 20px;
             flex-direction: column;
             }
    
-          .feature-title-title {font-size: 15px;
+          .feature-title-title {font-size: 19px;
                                font-weight: 400;
                                display: flex;
                                align-items: center;
@@ -621,7 +621,7 @@ h3 {font-size: 20px;
 
 
         .feature-title-subTitle {color: #A3A3A3;
-                                font-size: 9px;
+                                font-size: 12px;
                                  font-weight: 400;
                                  display: flex;
                                  align-items: center;
@@ -640,13 +640,13 @@ h3 {font-size: 20px;
                          margin-top: 40px;
                         }
 
-     .feature-text-title {font-size: 12px;
+     .feature-text-title {font-size: 15px;
                        font-weight: 500;
                        }
 
 
 
-         .feature-text-content {font-size: 10px;
+         .feature-text-content {font-size: 13px;
                          color: #A3A3A3;
                          width: auto;
                          }   
@@ -713,13 +713,13 @@ h3 {font-size: 20px;
             }
     
             .portfolio-second-child-content-children-title  {
-                font-size: 12px;
+                font-size: 15px;
                 font-weight: 500;
                 color: black;
             }
     
             .portfolio-second-child-content-children-paragraph {
-                font-size: 10px;
+                font-size: 13px;
                 font-weight: 400;
                 color: #A3A3A3;
             }
@@ -1113,13 +1113,13 @@ h3 {font-size: 20px;
         }
 
         .portfolio-second-child-content-children-title  {
-            font-size: 16px;
+            font-size: 17px;
             font-weight: 500;
             color: black;
         }
 
         .portfolio-second-child-content-children-paragraph {
-            font-size: 12px;
+            font-size: 13px;
             font-weight: 400;
             color: #A3A3A3;
         }
